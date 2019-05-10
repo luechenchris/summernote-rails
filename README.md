@@ -21,7 +21,7 @@ Add the following gems to your application's Gemfile:
 gem 'rails', '~> 5.2.0.rc1'
 gem 'jquery-rails', '~> 4.3.1'
 gem 'bootstrap', '~> 4.0.0'
-gem 'summernote-rails', '~> 0.8.11.0'
+gem 'summernote-rails', '~> 0.8.10.0'
 gem 'simple_form', '~> 3.5.1'
 ```
 
